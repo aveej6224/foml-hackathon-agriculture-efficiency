@@ -137,4 +137,4 @@ make_predictions("test.csv", "predictions.csv")
 
 ## Useful Links
 
-- Hackathon page: https://www.kaggle.com/competitions/vnb-foml-2024-hackathon
+- Hackathon page: https://www.kaggle.com/competitions/vnb-foml-2024-hackathon (For iith student)
